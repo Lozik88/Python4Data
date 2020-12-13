@@ -1,0 +1,4 @@
+FlatFiles/
+netezza_sqlalchemy/
+__pycache__/
+.vscode/
